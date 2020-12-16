@@ -6,12 +6,16 @@
 --Make it detailed 
 ## Investors profile variables:
 a. Age
-b. Investable amount
-c. risk_tollerance
-d. risk
-e. expected return
-f. investment tenure
+b. Investable amount ( we do not need it; we can assume a figure and convert the return in percentage)
+c. risk preference
+d. expected return
+e. investment tenure
 
 # Suggsted stocks:
+S&P 500 stock
+- Price 
+- Beta
+- Volume
+industry data: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
 # Expected outcome
