@@ -1,5 +1,5 @@
 # pseudo_code for the project
-## Outlines th pseudo code for project one. 
+## Outlines the pseudocode for project one. 
 
 # Step 1: Investors profile assessment
 a. Age: Decleare age as a list of float values. 
