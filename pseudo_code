@@ -3,15 +3,30 @@
 
 # Front end assessment:
 
---Make it detailed 
-## Investors profile variables:
-a. Age
-b. Investable amount ( we do not need it; we can assume a figure and convert the return in percentage)
-c. risk preference
-d. expected return
-e. investment tenure
+Step 1:
+Investors profile assessment:
+a. Age: Decleare age as a list of float values. 
+b. Expected return: Decleare return as a list of float values (percentage). 
+c. Risk preference: Decleare risk preference as a list of float values (percentage) [0+] 
+d. investment tenure: Decleare tenure as a list of float values.
+e. Investable amount ( we do not need it; we can assume a figure and convert the return in percentage)
+
+## define a function that uses the above variables to determine the types of investors. 
+- Risk lover
+- risk neutral
+- risk averse
 
 # Suggsted stocks:
+Use simple sharpe ratio to classify stocks into various group
+Sharpe ratio <1 is sub-optimal investment
+Sharpe ratio>1.0 & <2 is good investment
+Sharpe ratio>2.0 & <3 is very good investment
+Sharpe ratio>2.0 & <3 is very good investment
+
+Use beta to catagorize stock
+- Aressive vs defensive stocks
+
+
 S&P 500 stock
 - Price 
 - Beta
