@@ -40,11 +40,13 @@ industry data: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_libr
 
 Step 3: Generating profolio and determine the relevant characteristics
 - Set a rule of stock holding: 15 to 20 securities
-- Use sorting function to determine the candidate stock for portfolio
+- Use sorting function to determine the candidate stock for portfolio given the invetors types determined in step 1. 
 - Use random function to provide weight
 - Determine portfolio risk and return
+- Follow the steps mutliple times to develop a list of portfolio and their characterisitcs
 
 Step 4:
-- Use simualtion to develop portfolio risk and return. 
+- Use simualtion to develop projected cummulative return and risk of the portfolio over a several given time horizon. 
 
-
+Step 5:
+Visualization. 
