@@ -1,8 +1,7 @@
 # pseudo_code for the project
-## this is a file that outlines th pseudo code for project one. 
+## Outlines th pseudo code for project one. 
 
-# Step 1:
-Investors profile assessment:
+# Step 1: Investors profile assessment
 a. Age: Decleare age as a list of float values. 
 b. Expected return: Decleare return as a list of float values (percentage). 
 c. Risk preference: Decleare risk preference as a list of float values (percentage) [0+] 
@@ -44,9 +43,15 @@ industry data: https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_libr
 - Determine portfolio risk and return
 - Follow the steps mutliple times to develop a list of portfolio and their characterisitcs
 
-# Step 4:
+# Step 4: Projected portfolio risk and return 
 - Use simualtion to develop projected cummulative return and risk of the portfolio over a several given time horizon. 
 
-# Step 5:
-- Visualization. 
+# Step 5: Visualization
+- Visualization of the investors profile.
+- Visualization of the selected stocks/ securities.
+- Visualization risk and return
+- Visualization risk and return based on the investors types
+- Visualization risk and return based on the investors horizon etc. 
+
+
 
